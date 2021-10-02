@@ -8,6 +8,9 @@ Build a machine learning model to predict if an applicant is 'good' or 'bad' cli
 Goal
 
 Our goal is to determine whether a every applicant is  'good' or 'bad'. We will be achieving this by building a machine learning model to learn the features and tune it to predict the target (STATUS) variable.
+
 •	Using supervised machine learning methods to predict the STATUS value of an asteroid as Y/N
+
 •	To determine the most efficient algorithms with the highest accuracy score for the given Dataset
+
 •	Visualizing the performance of the models using confusion matrix and ROC curves.
